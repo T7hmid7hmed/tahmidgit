@@ -1,0 +1,8 @@
+p {
+  color: blue;
+  background-color: lightgray;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+  font-family: Arial, sans-serif;
+}
